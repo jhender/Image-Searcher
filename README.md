@@ -4,8 +4,6 @@ Send anything from Google Image Search right from your favorite apps!
 
 Bug reports and pull requests always welcome.
 
-Free on the Play Store: https://play.google.com/store/apps/details?id=com.stevenschoen.imagesearchernew
-
 Don't have the right picture for a message or email?
 Attach a photo and select Image Searcher from the list. Then, search through Google Images' massive collection and pick what you want!
 It's a lot quicker than searching for the image, downloading it, sharing it, and picking the app you were just in before you were interrupted.
@@ -31,7 +29,7 @@ Android Support Library by Google: http://developer.android.com/tools/support-li
 
 ###License
 
-Copyright 2014 Steven Schoen
+Copyright 2014 Julien
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
 
